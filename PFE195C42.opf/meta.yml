@@ -1,0 +1,32 @@
+id: PFE195C42
+initial_creation_type: input
+source_metadata:
+  title: Minling Terchen Gyurme Dorje Series
+  language: de
+  description: 'Texts by the famous treasure-revealer Gyurme Dorje (''gyur med rdo
+    rje, 1646–1714) alias Terdak Lingpa (gter bdag gling pa), the founder of Mindroling
+    Monastery:'
+  volume:
+    763fc0ca7a714be88418c110cae8a376:
+      title: The Secret Vajra Knot
+      parent: Aspiration Prayers
+    f8f80f7fe0ce4f538a4d10278729c1d4:
+      title: 'Liberation Upon Hearing: An Explanation of the Phenomena of the Intermediate
+        State'
+      parent: Bardo
+    441c501563624836b0d699bf28a1bde6:
+      title: 'Damchen Chitor: A Brief Practice of Torma Offering to the Oath-Bound
+        Guardians'
+      parent: Dharma Protectors
+    5328cc8bb35f448493e1f42f1bee79b4:
+      title: General Long-Life Prayer
+      parent: Longevity
+    ce84ec1480294559a3b5b56a93bb3ddd:
+      title: 'The Brilliant Essence: The Ritual Manual for the Secret Embodiment of
+        the Guru (Lama Sangdü)'
+      parent: Sādhanas
+    4d1d8c70ea654b3fa572e16d032febcb:
+      title: 'Final Words: The Essential Advice'
+      parent: Testament
+created_at: '2022-03-01T00:48:16.495120'
+last_modified_at: '2022-03-01T00:48:16.495127'
